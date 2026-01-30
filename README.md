@@ -53,3 +53,9 @@ This project helps **predict expected ad revenue** for a video using key indicat
 ---
 
 ## 📂 Project Structure
+├── app.py # Streamlit web application
+├── model_training.py # Model training & evaluation
+├── data_cleaning.py # Data preprocessing
+├── cleaned_data.csv # Final cleaned dataset
+├── model.pkl # Trained ElasticNet model
+├── README.md # Project documentation
